@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834838472772",
+    "project_id": "pavic-7e28d",
+    "storage_bucket": "pavic-7e28d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834838472772:android:e15729ec884a598a1bf411",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834838472772-0drgurgmsqnl8mq1iscp1sjocqb34cvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwW_UBMrvYTYJjJExiJc7tY7pFuSn0lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834838472772-0drgurgmsqnl8mq1iscp1sjocqb34cvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
